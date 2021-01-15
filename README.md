@@ -36,8 +36,9 @@ https://github.com/WeBankFinTech/Dockin-RM
 ## 社区通讯
 
 
+https://i.loli.net/2021/01/15/ZWcT6H79nwmA4Np.png
 
-![图片.png](https://i.loli.net/2021/01/15/ZWcT6H79nwmA4Np.png)
+
 
 
 
