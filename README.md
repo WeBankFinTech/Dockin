@@ -33,6 +33,13 @@ https://github.com/WeBankFinTech/Dockin-RM
 * 通用Operator套件
 
 
+## 社区通讯
+
+
+
+![图片.png](https://i.loli.net/2021/01/15/ZWcT6H79nwmA4Np.png)
+
+
 
 
 
