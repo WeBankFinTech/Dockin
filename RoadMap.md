@@ -54,6 +54,7 @@
 
 ### Installer
 - 一键部署支持
+- Master安装合并成一个步骤（不需要先安装worker再安装master）
 
 
 ## Dockin v0.3.x
