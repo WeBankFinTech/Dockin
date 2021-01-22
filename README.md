@@ -47,9 +47,9 @@ https://gitee.com/WeBank/Dockin-RM
 
 ## 社区通讯
 
-![图片.png](https://i.loli.net/2021/01/15/ZWcT6H79nwmA4Np.png)
+> 加项目负责人微信，回复Dockin+城市+姓名/公司，即可进社区群。
 
-
+![image.png](https://i.loli.net/2021/01/22/j41DpqKCYZRXPt9.png)
 
 
 
