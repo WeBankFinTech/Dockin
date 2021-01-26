@@ -46,6 +46,7 @@
 - opserver 支持logs操作和file操作
 - opserver 去除兼容老版本的代码
 - daemonset镜像部署支持
+- dockinctl命令行工具
 - 快速体验文档
 
 ### CNI
