@@ -56,6 +56,7 @@
 ### Installer
 - 一键部署支持
 - Master安装合并成一个步骤（不需要先安装worker再安装master）
+- 支持Release包使用腾讯云Cos发布
 
 
 ## Dockin v0.3.x
