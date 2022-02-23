@@ -50,10 +50,6 @@ https://github.com/WeBankFinTech/Dockin/blob/main/RoadMap.md
 
 ## 社区通讯
 
-> 加项目负责人微信，回复Dockin+城市+姓名/公司，即可进社区群。
-
-<img src="https://i.loli.net/2021/01/22/j41DpqKCYZRXPt9.png" height="250"/>
-
 
 ## 社区活动
 
